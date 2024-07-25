@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [
+          {
+            "id": "box-id--1102402240",
+            "x": 0,
+            "y": 0,
+            "width": 1566,
+            "height": 80,
+            "xpath": "/html[1]/body[1]/div[3]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/ul[1]",
+                "xpathWithDetails": "/div[@class=\"commbank-header\"]/div[@class=\"commbank-header-module\"]/ul[@class=\"commbank-list\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/ul[2]",
+                "xpathWithDetails": "/div[@class=\"commbank-header\"]/div[@class=\"commbank-header-module\"]/ul[@class=\"commbank-header-search-wrapper\"]"
+              }
+            ],
+            "color": "rgb(0, 255, 0)",
+            "mapping": "header",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/credit-cards",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  }
+]
